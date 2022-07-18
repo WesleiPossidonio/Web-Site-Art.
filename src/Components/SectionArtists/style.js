@@ -32,6 +32,10 @@ export const Title = styled.h1`
   margin-bottom: 40px;
   color: #0c0c0c;
 
+  @media screen and (min-width: 1818px) {
+    margin-right: 30em;
+  }
+
   @media screen and (max-width: 1262px) {
     margin-right: 20em;
   }
