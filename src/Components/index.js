@@ -1,0 +1,6 @@
+export * from './Header'
+export * from './Button'
+export * from './SectionDiscoverNewArtists'
+export * from './SectionCollections'
+export * from './SectionArtists'
+export * from './Footer'
